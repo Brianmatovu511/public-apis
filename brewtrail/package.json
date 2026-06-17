@@ -1,0 +1,27 @@
+{
+  "name": "brewtrail",
+  "version": "1.0.0",
+  "description": "Craft brewery discovery and trip planner startup",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@types/leaflet": "^1.9.21",
+    "@types/node": "^25.9.3",
+    "@types/react": "^19.2.17",
+    "@types/react-dom": "^19.2.3",
+    "autoprefixer": "^10.5.0",
+    "leaflet": "^1.9.4",
+    "lucide-react": "^1.20.0",
+    "next": "^14.2.35",
+    "postcss": "^8.5.15",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-leaflet": "^5.0.0",
+    "tailwindcss": "^4.3.1",
+    "typescript": "^6.0.3"
+  }
+}
